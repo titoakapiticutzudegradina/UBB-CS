@@ -1,17 +1,17 @@
 # UBB-CS
 <ul>
-  <li>📂: Second Year
+  <li>📂 Second Year
     <ul>
-      <li>📂: Semester 1
+      <li>📂 Semester 1
         <ul>
           <li>
             <a herf="https://github.com/titoakapiticutzudegradina/Assembly">
-              💾: Computer System Architecture
+              💾 Computer System Architecture
             </a>
           </li>
           <li>
             <a herf="https://github.com/titoakapiticutzudegradina/Computer_Networks">
-              💾: Computer Networks
+              💾 Computer Networks
             </a>
           </li>
           <li>
@@ -29,4 +29,13 @@
     </ul>
   </li>
 </ul>
+
+
+<br>
+<img src="http://www.chem.ubbcluj.ro/romana/conferinte/MEEMB/archive/pictures/ubb.gif" />
+<a href="http://www.cs.ubbcluj.ro">
+<p> Babeş-Bolyai University of Cluj Napoca </p>
+<p> Faculty of Mathematics and Computer Science </p>
+</a>
+<br>
               
