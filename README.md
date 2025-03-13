@@ -2,7 +2,7 @@
 <ul>
   <li>📂 Second Year
     <ul>
-      <li>📂 Semester 1
+      <li>📂 First Semester 
         <ul>
           <li>
             <a href="https://github.com/titoakapiticutzudegradina/Assembly">
@@ -22,6 +22,15 @@
           <li>
             <a href="https://github.com/titoakapiticutzudegradina/Java">
               💾 Advanced Programming Methods
+            </a>
+          </li>
+        </ul>
+      </li>
+      <li>📁 Second Semester
+        <ul>
+          <li>
+            <a href="https://github.com/titoakapiticutzudegradina/Operating_Systems">
+              💾 Operating Systems
             </a>
           </li>
         </ul>
