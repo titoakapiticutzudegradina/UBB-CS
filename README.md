@@ -33,6 +33,11 @@
               💾 Operating Systems
             </a>
           </li>
+          <li>
+            <a href="https://github.com/titoakapiticutzudegradina/Numerical_Analysis">
+              💾 Numerical Analysis
+            </a>
+          </li>
         </ul>
       </li>
     </ul>
